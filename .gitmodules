@@ -1,0 +1,3 @@
+[submodule "Catppuccin-Themes"]
+	path = Catppuccin-Themes
+	url = https://github.com/catppuccin/st.git
